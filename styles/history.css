@@ -12,17 +12,16 @@
     padding-bottom: 15px;
     color: #f18805;
     text-align: center;
-    border-top: 4px #000 solid;
+    border-top: 3px #000 solid;
 }
 .wrapper1 h3 {
     font-size: 50px;
     padding-bottom: 20px;
     margin-top: 50px;
     color: #f18805;
-    border-top: 3px #000 solid;
+    border-top: 2px #000 solid;
 }
 .wrapper1 p {
-    font-weight: 300;
     line-height: 40px;
     padding: 0px 60px;
     font-size: 20px;
