@@ -179,7 +179,7 @@ h1 {
     padding: 10px 50px;
 }
 .mark h3 {
-     font-weight: 400;
+    font-weight: 100;
     font-size: 35px;
     color: #3f6600;
     padding: 30px 0px 10px 0px;
@@ -204,7 +204,7 @@ svg {
     width: 150px;
     line-height: 20px;
     padding: 10px 10px 10px 7px;
-    font-weight: bold;
+    font-weight: 400;
     letter-spacing: 0.5px;
     margin: 10px auto;
     transition: 0.2s ease-in-out
